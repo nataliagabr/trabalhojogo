@@ -1,0 +1,7532 @@
+fileFormatVersion: 2
+guid: 0728f2bd2428d2043bcff44f8494ca53
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlP7DH_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce297db3084ec446a6561a2fb9d820e
+      internalID: -786229067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96056cabd64206046a822b7a4a530093
+      internalID: 1384822082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e03ce888a5e54b85c15a7711bd2cc
+      internalID: 1545781327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144d2b4dfb365e42b3d50d927e81a07
+      internalID: -757118460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408fe6f2c4023b4c8c445051321a2df
+      internalID: 2062310457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7985bcd4879fb44aa4328f54c1d3038
+      internalID: -656509719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a11d5a6983bb1f42afee23220da61e0
+      internalID: 771419187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd7e96f43556e439a14ce736bf8322
+      internalID: 404336773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f9798962d4684db5a91d88b2b5983
+      internalID: -422418735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ea32e0fdf5cdc4fbd31e482085aeda
+      internalID: -618066374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169eae594e247de4aa75993290d7c045
+      internalID: -1659206950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70bb1c573c7be46817b746e4c9aa75
+      internalID: -1563400714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcff7e1db6d104d954f2acefc62733
+      internalID: -2123753193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fdca4547534a944bcf0230db262f6b
+      internalID: 1255927474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4552029472bf6408dc302ae5ea786d
+      internalID: -1281153065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c325bf1465fef90489d831028b538a80
+      internalID: -119349190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621633245dd0ec4ba16a201dfce88b8
+      internalID: 456214713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03bd4223426a5d4b946817af869f5aa
+      internalID: 384212049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03cb123d7d773f48a86f5d634280786
+      internalID: 1157777343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21478238f81403341aaf3ea809597aee
+      internalID: -1907765872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf3b5c70e91634bb83f71e9d0bb763
+      internalID: 1837566897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b748ce6c447843953b9328de0e760
+      internalID: 2095855308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_22
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b543847da55654a927876ccd9b0d17
+      internalID: -106125056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_23
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93541e6a7d8feb54ca99cd1b002ce3bb
+      internalID: 1834204014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f784bf7aaea2d4fb4a09947ae8fd10
+      internalID: 216358788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_25
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e30e017bbcc64487ac0e6ad655f67
+      internalID: -1127166690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_26
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1d76c3cc04ca4897e4c46053a9a0d
+      internalID: -1555460821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_27
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 528
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22245b5bf4198e84389c87bc8a1d7cdd
+      internalID: -1235412382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a140c10558b44895e80f44f0f108a
+      internalID: 1097270960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615712ee808fe7f43b29c1a77534d3b1
+      internalID: -734040034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1d0bfb29b9bb4fb7316eee627c55f
+      internalID: 2133672146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea6fb661676d14682e15a80ee79707
+      internalID: -1876259756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3479be7daf9ed45bc092c043d640ef
+      internalID: 1736823957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc19b7f7d241c41870936483ce7d9d
+      internalID: 341935030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a47b30d12068f48bc91c099f3d7a04
+      internalID: -1890758049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b40995340112418689a4bbbc4cba3
+      internalID: 303815476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fa912290f7f4408351168c7e99825
+      internalID: -1439972313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98de53c6ceea1be4791f853f85263bbc
+      internalID: 352523506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b86a1e4722c32498cb1f1510637b9f
+      internalID: -915553199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e82dc85508344f97151e10ccb5ffb
+      internalID: 1788135676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_40
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063af8ff3ac9944aa5e14e1515eb451
+      internalID: 1379818740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_41
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7ded0d426c474b9a354fc40a9541c
+      internalID: -863295439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd64f795f62c4419859af5c1c23f97
+      internalID: 2088919286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df80dc1b32df74588d5c28fe1d593d
+      internalID: 958147729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_44
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e4458f9530c54c836f2c5c5508c9e
+      internalID: 1127719804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_45
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3094ac8f39fe34c88fd0e33858bd9a
+      internalID: -1431492137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb53ecee1298b44805115591c730c3
+      internalID: 672914657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_47
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad6ca589c1b034c84525c5371e9f7d
+      internalID: -1412557534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_48
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b410cf9f1757d4eb9d587391ab96c5
+      internalID: 338921210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_49
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a89e9dd748184c90b68138f1a27c8
+      internalID: 1528651143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_50
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992bda4ce20e8e54089e7ba45c3128d6
+      internalID: -895778074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_51
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b0164d8596bb4f9e374f85b8e85fb
+      internalID: 965259344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_52
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edf9dc820d81e44c8ef9e88ee80e9dd
+      internalID: 1229471879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9949a2738f4dac4c8691dd84c6d26bc
+      internalID: -1903760487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_54
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a75acc12ac9c54f83284a12c834a59
+      internalID: 610342886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_55
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 480
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd07e936d5b0ea488073383a7255806
+      internalID: -148372510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d55db80dad75741846781cd745be88
+      internalID: -471780789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ed462c57adc149bad1592793aad30
+      internalID: -1517827261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f647264606864e98b010de95a78e2
+      internalID: 648840061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ea87c32d6cbf469b5c13e0debf1e2
+      internalID: -1277470961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c16b2648806549aea11e9a727e089
+      internalID: 658129974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30ea2a7e57965458b936c3578411cc
+      internalID: 1085841665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b7f0be62df61243a5cadb7a0a4980d
+      internalID: -979778793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08fc008f8258234ab6b40b5c19b4810
+      internalID: -412171285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb73c6277fa4c4ebe9453876bd9d48
+      internalID: 1557668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_65
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e15c99c198314d965eabb250ab5e8
+      internalID: -706420756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec00d5b79e4a7499f2c96043931b66
+      internalID: 520101010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_67
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a51c789dec6d48a5d27ecd41957bc
+      internalID: -1405153444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e56eda9588ddd4dabec4e232a711d3
+      internalID: -1408123025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fcd83cf719674488d85ddf61206f37
+      internalID: -1106427459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_70
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad062ba4e69a6ef49b62e25f8e3d28cd
+      internalID: 1148465945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_71
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f095fef3268fe44abc1fef3dc336b9f
+      internalID: 1100867467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d98a480260614fb71d3ada51715b7
+      internalID: 627001311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_73
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edd195a14aedd4bb6a32a3ebb06152
+      internalID: 1034147228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_74
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef63072850694e458db4be9f2df15a3
+      internalID: 10271504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_75
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3656dee6c7457e47858fc5b8258625e
+      internalID: 1708138962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_76
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290b94e997f708438b0847bbc8efa55
+      internalID: -203648708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_77
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55163a722947bf40b203a4bf83a3efc
+      internalID: 1465960911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_78
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a578c07aa68ae9040a2fb8ad461277d3
+      internalID: 1051208636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_79
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518f5b532795fb49b61f3cd322047d7
+      internalID: 117635660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_80
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55af0b4d2706c44a70f9a48e11c0e6
+      internalID: -390803590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_81
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b2ac23930769458668ac1af4f38f1
+      internalID: 875599097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_82
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f9327e8bf2ae46812aa1b5a1d7b05
+      internalID: 1440557597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_83
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 432
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06cb9ad16239142866d4a8ac55a522
+      internalID: 1910290295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c8d4405639f04b96f119da06702f1
+      internalID: 556632202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34890b1ac12a86c479f5f1b8fbdd7353
+      internalID: -322270153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634eab66437b004f8c9871dbe43e0f8
+      internalID: -693980018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_87
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb0f75cf33b9234a8351cce8674c4b6
+      internalID: 1243500139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_88
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3135b075df3ab548bbda57bcbcd90c4
+      internalID: -569041505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342226eef4ae9c943943ff4201162ad5
+      internalID: -1977219633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_90
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbfbc2cff8e4f14da5a33feea07130f
+      internalID: -342966120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_91
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66f080e9964134f8d47e4a7b445ced
+      internalID: 1795971698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a087d2150be02a4dad4c223bbf76dd5
+      internalID: 2096496602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c011a662803303489ef007f239229b0
+      internalID: 56239109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398743d54e23764fa1b7bada92406ec
+      internalID: -395063591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_95
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a35e8372044946814b041654cc77a
+      internalID: -166430638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_96
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4dd2062ccd03844a273deafb18d477
+      internalID: -1115303814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_97
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd8796d3f1f17478a40632332f99d5
+      internalID: 1244849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_98
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfaa663adb285943b3f6c60658ec762
+      internalID: 2107059182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_99
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf324b4103b45314aa24a6f7436e03ae
+      internalID: -2072290790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_100
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31cad25ad09fe4fa746e07599127a3
+      internalID: 1800591271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_101
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4586eba8f17563045ba1013d1a7b0a14
+      internalID: -788937725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_102
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4859a62797bfa2746aeb9144a2a92244
+      internalID: 937103785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_103
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87e51e5b0a7a84192c6885b8fcc483
+      internalID: 669278593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_104
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b75081457a8c4d92a00d6f531a18e
+      internalID: 5684689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_105
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d79ac89676a454187f6f05851eede3
+      internalID: 1507539078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_106
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275169d1ea3c664b9165146e671905d
+      internalID: -1391127449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_107
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924149d0cb15514191f65601cfb504a
+      internalID: -985072086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_108
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d247aebfe40604abd5edc944aa7e26
+      internalID: -552229078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_109
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44050543d378ea04bbb99194a07d01df
+      internalID: 426176316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_110
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea7282625658e48829b6dc52a4d60d
+      internalID: 1664268569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_111
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 384
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec2cc079978014cbca9885cacb6430
+      internalID: 1191171307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492edb9293966b45861d0f0153594b4
+      internalID: -1246853853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715f138fe6a81845812ecb9e84c28e3
+      internalID: -962567973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_114
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a70d97aee9554e94cc5dde3118f4c
+      internalID: 1518259795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_115
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f4e01142da1846a76b581ae004359
+      internalID: 1735064629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_116
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e67eb98fad413c43aed90fc6689494e
+      internalID: -1950310096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_117
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c296b5631e01548b0afdc90c62307b
+      internalID: -1086245765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33c7f64a8625948a349127f97db483
+      internalID: 251649157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_119
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec2f1cfba7ec54a9abd036793e9655
+      internalID: -403962193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_120
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba154c972a07cd4abcafce5754e770d
+      internalID: -1569848481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_121
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edfc8d2495245b438ecc7688277059c
+      internalID: 1355051791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_122
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002b06412d3ece4b93da2d44c4a9df8
+      internalID: -1984365399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_123
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db373fdf2f8614048838bcf0c6987218
+      internalID: -378948521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_124
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94744bf57ee55c4595a1ccd322e3cd1
+      internalID: 1005537017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_125
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a9081308805445afd2253b4da18b0
+      internalID: 520563021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_126
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f5965c8ab9fa46885070458e483a0
+      internalID: 1563759636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_127
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23266a57c3d4b9b4b990375781842d15
+      internalID: 2068338937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_128
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a647237bbdb44d8ef2f4bdb2e845d
+      internalID: 549226812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_129
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fea9e78357851d4fa1bde77cf353aec
+      internalID: -1916220056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_130
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07a06ad8396fc4aa842ba41eb418ab
+      internalID: -597329364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_131
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703010f3ed36d2429d0b9cf5933a22d
+      internalID: -2061117024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_132
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac65a32afbc8154f93e9aa36837d640
+      internalID: -1127635391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_133
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b3d412dcdacd4b961e43ff27b66b4
+      internalID: 1856968264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_134
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539ead4644dff040819848542f2138f
+      internalID: -239556534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_135
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bae6b3c7bab40c4591d67730f5ab23f
+      internalID: 796292981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_136
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860106e9d4c9fa5428fa796bf4ddca5e
+      internalID: -883374168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_137
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a643d04c27765f4981db4ee1c00e01d
+      internalID: 335341596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_138
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9116f517700ad41862cb8eb7b0c422
+      internalID: 2074496313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_139
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 336
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed961babdbbcb4287a5494c6d42d33
+      internalID: 734171211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83747479bf7f5489bcb5b9098c2cd7
+      internalID: -1510667821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_141
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741751621efdee94b94f02fa57a969d3
+      internalID: 478522592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_142
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b4991899bdf84b833149f2a6f75ed
+      internalID: -1293273572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_143
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ee25ae76a8854a9cdca1415ba1448
+      internalID: -930705035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_144
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a387d7d58bdfc4c88e11958315561c
+      internalID: 1232556136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_145
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d69fe12733bd44b023d7985463e96
+      internalID: 882034191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_146
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16f3c9dbf671c418cf9544df19f56e
+      internalID: 156266719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_147
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f0159ff8058b54983daa1ee7a64705
+      internalID: -1263348392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_148
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa0fb252497d6f4093d442b26e574d3
+      internalID: 1187279616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_149
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114ccc66886b3d4687066080318f7e1
+      internalID: -1675645517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_150
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83715b0ca9d871044b4a4cb0d72ad3a0
+      internalID: -990184085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_151
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769455d2405f2649a5f3c0f483e7824
+      internalID: -1547782079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_152
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef966b29cff46d428bead5092e97196
+      internalID: -1553591807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_153
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df3a37e494ae14296795f91fb7a089
+      internalID: -1503951758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_154
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b4330ad2b14e4c99f8e7427682993
+      internalID: 1238114988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_155
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8d2083131fc345880ad2d2eff2108
+      internalID: -1975866922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_156
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4acfde3ef511d42a6d0d0c865c8d29
+      internalID: 1101259775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_157
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe958ce96a6424c9d5585a8673f8c5
+      internalID: -486232576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_158
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968223442da8ed04bafdd50b28c128b0
+      internalID: -1541275086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_159
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c4103c41880342b10bc810fb28257
+      internalID: 1083384087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_160
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf908b5ebcd3f46a1eebd6f678a2f0
+      internalID: 337937055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_161
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb873eb1a9a3964597fd9d60d48d9a6
+      internalID: 1365530999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_162
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e9af9de849684eae67111ac7047e7
+      internalID: -1442226590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_163
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f1e1da8a05724385e2eb9e2f04f61
+      internalID: 882506979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_164
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb0a3c6ec56f44b904f6ff92919c87
+      internalID: 1016167076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_165
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55282e6570d13a4f9a6fc97d730f0d5
+      internalID: 572112960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_166
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe37f2a8b1f8947b3eaffba2db4499
+      internalID: 854945901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_167
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 288
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5556f6736cb304c82dd347ae445b93
+      internalID: -34697288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567b3a1d223e314896d4361e9a43887
+      internalID: -58989196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_169
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eef2f2bbc4b2b4f8564143ae8e3634
+      internalID: 1737061720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_170
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d6281ee92cc44d944d45a8b9d2056
+      internalID: -1586375567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_171
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbc03c032251446a29893dd2fa2c03
+      internalID: -1651300581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_172
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad884ed35dd644ba752d4546d4a771
+      internalID: 683284257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_173
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85af9975941a5419f92f05ed6d4d95
+      internalID: 548697510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_174
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40f014709343c459832ba2ec775b9f
+      internalID: -349728474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e47c4649ecb04bb7704a434b0e6f9
+      internalID: 1128407363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_176
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bdb8c6258c6e2459f4076148648efb
+      internalID: -347860078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_177
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef226bd4068fc4080d88a520656994
+      internalID: 973345429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_178
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16bac871b495c41a4f96e6824e0dc9
+      internalID: 914397946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_179
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244cc4f9825b63408cbd8d10477d631
+      internalID: 1069405442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_180
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef09720af5a9214281179303584b4d4
+      internalID: -591801430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_181
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ac59514622ee4a82cdd00c20e65e8
+      internalID: 107719932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_182
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92551020c1fa94cb64881826ac464a
+      internalID: 1664152652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_183
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962ea6dc0c976c48a51d4c0b99b233a
+      internalID: -1162050588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_184
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f194c569806844b35ae428e05f410
+      internalID: -1553404485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_185
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717619729340d2f448d97e2ed7f982c4
+      internalID: -198911637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_186
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c778adc1fe9c4690d3af853dcc30d
+      internalID: -572396072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_187
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400d8f357e5a9e4a84103605a29000c
+      internalID: 1432105270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_188
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f15618dbf9a84a8373f204f38d72a
+      internalID: 452550854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_189
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255e2454dbacf94083889a753e2285d
+      internalID: 221315721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_190
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950cbed364abb054984cd4fbe9dd2b5f
+      internalID: -1597326328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_191
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913ff76c6bb14f47bddc7bc34faa102
+      internalID: 218580762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_192
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26593fa632686dc439cb2669201b4ec2
+      internalID: 630637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_193
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253f081edf39d442bb1f013846d2905
+      internalID: -233313390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_194
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a39e1a0c8d7e41b42368767a5c61f
+      internalID: 845453957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_195
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 240
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb9c2d659973a4e9362b935e472a7b
+      internalID: -82515504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e352eddcd287f4782327709080f4e1
+      internalID: 1363226240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_197
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca86d4cdcf85ab41a32f5a6df8b93f3
+      internalID: 1361532797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_198
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f4359f713cfb4e91bdf04437ee374
+      internalID: -106773370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_199
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68824ac8449be724e996a730e088802e
+      internalID: -1781974302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_200
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606740e5d71b408468f0dd58142e534f
+      internalID: 1000315036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_201
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a047ab3527b44b8f62f09e1f5300d
+      internalID: 1794471343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd4812c96f2da42a208c52e8732717
+      internalID: 307849504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_203
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab98b93209205418b03867afb298bc
+      internalID: 618980446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_204
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310732c01c3824e4fba43035403b7e9d
+      internalID: 711780617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_205
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837244041ec690449df247b71a26ac1
+      internalID: 1354653372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_206
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739b078f9547e345b1b4a61b7ae73f8
+      internalID: 1698067639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_207
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658dc554c23bc154fb2fe7f7edaf98a3
+      internalID: -1635548241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_208
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9af0f23a96e54996b724fe96e369f
+      internalID: -1547268160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_209
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4235d471e1164e9fd862d838abf31
+      internalID: -1890138229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_210
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d081836e7c6f144e8fcc06b7fc48aca
+      internalID: -1176958968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_211
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277934a4686b1546bd50e21924fedb1
+      internalID: -548808085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_212
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e18c7f12cd76c4eb3e7c5f8e657ed2
+      internalID: 57683624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_213
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff182a9d18c2c774aba4ecc2469d5599
+      internalID: 1402161236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_214
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d99b3714016dab4f94de9a9cd961ee2
+      internalID: 1382180688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_215
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561c96bed478a84eb486e3e8d4373d5
+      internalID: -279651524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_216
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4c215a28a7564cae99fc9c589256f
+      internalID: 244097659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_217
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490663806d9b854d8979e069e30172a
+      internalID: -29246968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_218
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997da1467e575747b4ddab65edf341c
+      internalID: 15693433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_219
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f57c1e4d9803469130d414bb2dbbf
+      internalID: -671285430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_220
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9366a3b3a5c6d947b3f9d7213b61b95
+      internalID: -817775958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_221
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3acc32781e4344b95e24c6d44e09eb
+      internalID: 1213432607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_222
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503c948b15dd4847af12fc87f0ba43f
+      internalID: 1913570909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_223
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 192
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffefd8fdace234ca1eaa73fa4d0d8d
+      internalID: -1949635630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d0134e75311c4b8b5d3dce1da71e0
+      internalID: 356611279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_225
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9e65cc14b26b4e9f301a96923c141
+      internalID: -1683380317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_226
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4b69790c7c5344a18c1274ecbe4b1
+      internalID: -1754445909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_227
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93f64840d0b4a4e80176404082183b
+      internalID: 1699922667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_228
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e1929c571918143b62cde9b722c4df
+      internalID: -867937317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_229
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771dbbfe45b076b47bac95e4b737d2a3
+      internalID: 1246044015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_230
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3408bf1d64fa4780045760b4443ae
+      internalID: -1555798068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_231
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0f5d851534fb4b96308b8d77faa32
+      internalID: 2144866863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_232
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453cef5a4a7da84992802a89d721dab
+      internalID: -1958371348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_233
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f02952ba6d3144984fbe26eeafb6bd
+      internalID: -626785820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_234
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a68b5dd7060794fad60644fda983a4
+      internalID: 1070833315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_235
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86698e3770faa2e4abae3896119fa1d0
+      internalID: -850394764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_236
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828851bfaf3395849b1261caf26672f3
+      internalID: 1907190776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_237
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf35185d72dca5438b9b719475df093
+      internalID: 1951961272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_238
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87409e4178e694c8cc5692ffbdc35c
+      internalID: -1962856507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_239
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db603e7120551604fb78dc0a5654d7bc
+      internalID: 749773189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_240
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a467ee84a39cf4db56424f2dcb426f
+      internalID: 1177547074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_241
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f3b303d9b6684dbddf50d58bf8f14
+      internalID: -1657309234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_242
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092ad27d4389714db3ca6748f43b1dc
+      internalID: 1779456237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_243
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e415e133199443926ef8d32c1388c
+      internalID: -1208585701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_244
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eeb7d5f71d46c4db7331441ea6e84e
+      internalID: -2065960239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_245
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc07e560f6d49546bf99dfdf74f0098
+      internalID: 1486027804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_246
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7db195797fdc14cbe15cea056d5360
+      internalID: -1207459291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_247
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4a39496c5e094cb16212799a10c5d
+      internalID: 406407771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_248
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e422dd2c08cdfe4bafe5eb1572b1214
+      internalID: 313219622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_249
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae777a25a0556bc47b79e87e9b40312a
+      internalID: 864129098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_250
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454e10aa8841f14db3ac765eb28f56d
+      internalID: 554806878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_251
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 144
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5884885917ba9a4bbf694b32aa14e81
+      internalID: -1683852793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e489b5fb7e850940a3c10283fbd0a61
+      internalID: 1670577998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_253
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936eca484fc44c4197b4f40580b798a
+      internalID: 1556205932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_254
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab1c550ca749042bec277a9fd749a1
+      internalID: -930879612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_255
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae95d40dd71cd64ca7bc330baea8490
+      internalID: 1475179354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_256
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed00c8ae4e4684e8fe91939c4f8f4f
+      internalID: -869727563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_257
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b35c65909e2a48a815ba1cf7060c0
+      internalID: 9139933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_258
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60b1bca40af904294a4a28691578fb
+      internalID: -174917528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_259
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4c1c022f9a084ba160106684ff3e9
+      internalID: 2137490983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_260
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a99cbaf636b574eaaf4835da908a34
+      internalID: 538800589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_261
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07983ebadd818438a8e02a2dc7ceed
+      internalID: -745325169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_262
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30cfcf0f3c2014aa42181d9c8ca921
+      internalID: -1151190737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_263
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8bf3ab0e0fd947aa3a9355d2f32a6
+      internalID: -1109154249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_264
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c299b90ad1a574baba6ef6a4bb530e
+      internalID: 1268286633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_265
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a70f40ed47634d9329c4dd24023e4
+      internalID: -1092188669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_266
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380bf7580bf72d94a91ed10450dabb11
+      internalID: -714971016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_267
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49842a4b00e647e46975ca75d5a1e49b
+      internalID: 67171047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_268
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d50a6eb24f5044b53feee0e96089e
+      internalID: -476837372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_269
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b50c9415544a459080b684e1d9102
+      internalID: 262832442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_270
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c95f63839cac748b63a33b32d860b1
+      internalID: -1466690662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_271
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c279cbeec5a74191892b849f4e6fe
+      internalID: -923650770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_272
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489309ef2ca476a4ca5d2e414743f957
+      internalID: -1929598114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_273
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd1d8774c91d3468d22d6ce99d0179
+      internalID: 747496941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_274
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a250996fd8d49048bced016c48003cb
+      internalID: 1988213322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_275
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ac3358674f9042bca2581b8f2a97b
+      internalID: -1232564209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_276
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1883fa899885345974121e11fe07cc
+      internalID: 51281266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_277
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ed4eca49849c43b4aec45dcc0e829
+      internalID: -937924575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_278
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b87c74c9cd1be46abdfccb223daa1f
+      internalID: -1390464321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_279
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 96
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b12726d8bd4da4fba7120100d97758
+      internalID: 1980679013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07163201ecdfa45bd695afebe40e9b
+      internalID: -627954632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_281
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5df8bf803b4eca4d995f6cb95f6d134
+      internalID: 1824839774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_282
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e0de3ca98bcb45a39b3d7f14105d6
+      internalID: -1444072358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_283
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c442b67ddcd5646ac446c292a8b7be
+      internalID: -1595539784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_284
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f55a0c6223ff429cb75ec75e062bc
+      internalID: -4525615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_285
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34578ef3c18901b4cb6d97c8cd1887f4
+      internalID: 526042107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_286
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9fb4279fad7504e857529ce2012fba
+      internalID: -1701724260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_287
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8511988b2892ee40812ca7bd0af7a88
+      internalID: 1578736037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_288
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e1c58e568dd64ead035703776206a
+      internalID: -975527933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_289
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a06e1be98f1a848bb80277eba2667d
+      internalID: -1715926713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_290
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518243d86e21d04bb45a0472176ea4f
+      internalID: -692267703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_291
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1a0cce5fe9c24791c51b10d5159be
+      internalID: -428612793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_292
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa85f55ba7dbc40458cf827084dc8a37
+      internalID: -1911601007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_293
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a277b9ca95380c14bb76ae52ab03c21f
+      internalID: 2147140750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_294
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e31d441598b6a4ba0743572f08c84a
+      internalID: -2039725738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_295
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356c8736793a28469404cbda8729b08
+      internalID: -930038771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_296
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e474707c7b7064ab1c2626f9c5fc8b
+      internalID: 1348136735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_297
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848ab9955c6cbd459e10d2ad41a9034
+      internalID: 1357136939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_298
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188833c04327bba458c64fed71847eae
+      internalID: -1151440521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_299
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239b343617f6a6c40874418250cc609a
+      internalID: 1028555062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_300
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd854cb9a0ffc44aa494efb96f947f
+      internalID: -265170858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_301
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79f07b2bf825a44bd777203ec43fad
+      internalID: -1314588384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_302
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676191b6f16ed9046864a581f8502b28
+      internalID: 1941487712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_303
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a543c9c6f3063a14da7cdef22f53593c
+      internalID: 1903705190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_304
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da17b2fe81809849a4fc81353cdea86
+      internalID: 2044131079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_305
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0b7039fd93234290c1d7643c47f5a
+      internalID: 1227966996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_306
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf49129efc7d54fac54fef494ccdcc
+      internalID: 1730956130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_307
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 48
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2dcc3b5d8f339439c84d3f9e2f3cfb
+      internalID: -1268018596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a9804b8b03ad4086e0c8edbc68d78
+      internalID: 529347451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_309
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22eeef22cbbd64bb08a0777504e709
+      internalID: 2063130983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_310
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cad1ceef8e9b349899f518671961fd
+      internalID: 1562229702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_311
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98879f619f6fce4c82246832ef6f737
+      internalID: 1020351283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_312
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025490d6613b25d44acabd6cbc675e06
+      internalID: -1591407847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_313
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e63d4ac187ef9a48a202557aa8b3cdb
+      internalID: -820408109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_314
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66ab4ac8f81e549a5db98ffe21b0a1
+      internalID: 1620327397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_315
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f0bdd13d0754459955ffe4db10f56
+      internalID: -889511178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_316
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91156d1604cc540bf0e3887fbbccdc
+      internalID: 489652393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_317
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa53cd48ca94d5488ca12839e5903d2
+      internalID: 1750099349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_318
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79df8c6693aeea48ac5757b3a881aff
+      internalID: -1570681542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_319
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaacc9b2226eb3409e7c97ec2690060
+      internalID: -162380240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_320
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a2a91a4c587c42847949353f65048
+      internalID: -558848491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_321
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46615bfa969410744a1e3a09fbe86565
+      internalID: -630972570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_322
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd7696d9459b54a81c62c3a8c6b590
+      internalID: -1402981347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_323
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a15804cbef714cbc2afabcb087e8f
+      internalID: -1027045247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_324
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19333edc005ffd4593a26672fce005f
+      internalID: -1021094596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_325
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b744b6a0beaacf42bb7373319356ece
+      internalID: 1954141265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_326
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f094c6a81f8941abbe78eb654e499
+      internalID: -1531517081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_327
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1cd519287ca8f4b9f4a0de3c410176
+      internalID: 1303005413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_328
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a87b46d50cfa439442dc64f8ec3a1
+      internalID: 2008429142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_329
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ca2e2fe0d1524b9c3fe6cae1e0800
+      internalID: 1972997651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_330
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ee71fdedcd3b43a488b3769faab86
+      internalID: -1553667946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_331
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e790a2ba588a2174683fb77c5b136370
+      internalID: 1873026744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_332
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748594694d51cfd469e8095ddda9602d
+      internalID: 223485900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_333
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aacd4b8380138428b0801e97604912
+      internalID: -2116987384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_334
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0382a63bc4771e34987d2293e3b8753d
+      internalID: 2132813951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlP7DH_335
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 46.285713
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406ff768bd531b4488845602b143b6b
+      internalID: -79159074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AlP7DH_0: -786229067
+      AlP7DH_1: 1384822082
+      AlP7DH_10: -1659206950
+      AlP7DH_100: 1800591271
+      AlP7DH_101: -788937725
+      AlP7DH_102: 937103785
+      AlP7DH_103: 669278593
+      AlP7DH_104: 5684689
+      AlP7DH_105: 1507539078
+      AlP7DH_106: -1391127449
+      AlP7DH_107: -985072086
+      AlP7DH_108: -552229078
+      AlP7DH_109: 426176316
+      AlP7DH_11: -1563400714
+      AlP7DH_110: 1664268569
+      AlP7DH_111: 1191171307
+      AlP7DH_112: -1246853853
+      AlP7DH_113: -962567973
+      AlP7DH_114: 1518259795
+      AlP7DH_115: 1735064629
+      AlP7DH_116: -1950310096
+      AlP7DH_117: -1086245765
+      AlP7DH_118: 251649157
+      AlP7DH_119: -403962193
+      AlP7DH_12: -2123753193
+      AlP7DH_120: -1569848481
+      AlP7DH_121: 1355051791
+      AlP7DH_122: -1984365399
+      AlP7DH_123: -378948521
+      AlP7DH_124: 1005537017
+      AlP7DH_125: 520563021
+      AlP7DH_126: 1563759636
+      AlP7DH_127: 2068338937
+      AlP7DH_128: 549226812
+      AlP7DH_129: -1916220056
+      AlP7DH_13: 1255927474
+      AlP7DH_130: -597329364
+      AlP7DH_131: -2061117024
+      AlP7DH_132: -1127635391
+      AlP7DH_133: 1856968264
+      AlP7DH_134: -239556534
+      AlP7DH_135: 796292981
+      AlP7DH_136: -883374168
+      AlP7DH_137: 335341596
+      AlP7DH_138: 2074496313
+      AlP7DH_139: 734171211
+      AlP7DH_14: -1281153065
+      AlP7DH_140: -1510667821
+      AlP7DH_141: 478522592
+      AlP7DH_142: -1293273572
+      AlP7DH_143: -930705035
+      AlP7DH_144: 1232556136
+      AlP7DH_145: 882034191
+      AlP7DH_146: 156266719
+      AlP7DH_147: -1263348392
+      AlP7DH_148: 1187279616
+      AlP7DH_149: -1675645517
+      AlP7DH_15: -119349190
+      AlP7DH_150: -990184085
+      AlP7DH_151: -1547782079
+      AlP7DH_152: -1553591807
+      AlP7DH_153: -1503951758
+      AlP7DH_154: 1238114988
+      AlP7DH_155: -1975866922
+      AlP7DH_156: 1101259775
+      AlP7DH_157: -486232576
+      AlP7DH_158: -1541275086
+      AlP7DH_159: 1083384087
+      AlP7DH_16: 456214713
+      AlP7DH_160: 337937055
+      AlP7DH_161: 1365530999
+      AlP7DH_162: -1442226590
+      AlP7DH_163: 882506979
+      AlP7DH_164: 1016167076
+      AlP7DH_165: 572112960
+      AlP7DH_166: 854945901
+      AlP7DH_167: -34697288
+      AlP7DH_168: -58989196
+      AlP7DH_169: 1737061720
+      AlP7DH_17: 384212049
+      AlP7DH_170: -1586375567
+      AlP7DH_171: -1651300581
+      AlP7DH_172: 683284257
+      AlP7DH_173: 548697510
+      AlP7DH_174: -349728474
+      AlP7DH_175: 1128407363
+      AlP7DH_176: -347860078
+      AlP7DH_177: 973345429
+      AlP7DH_178: 914397946
+      AlP7DH_179: 1069405442
+      AlP7DH_18: 1157777343
+      AlP7DH_180: -591801430
+      AlP7DH_181: 107719932
+      AlP7DH_182: 1664152652
+      AlP7DH_183: -1162050588
+      AlP7DH_184: -1553404485
+      AlP7DH_185: -198911637
+      AlP7DH_186: -572396072
+      AlP7DH_187: 1432105270
+      AlP7DH_188: 452550854
+      AlP7DH_189: 221315721
+      AlP7DH_19: -1907765872
+      AlP7DH_190: -1597326328
+      AlP7DH_191: 218580762
+      AlP7DH_192: 630637852
+      AlP7DH_193: -233313390
+      AlP7DH_194: 845453957
+      AlP7DH_195: -82515504
+      AlP7DH_196: 1363226240
+      AlP7DH_197: 1361532797
+      AlP7DH_198: -106773370
+      AlP7DH_199: -1781974302
+      AlP7DH_2: 1545781327
+      AlP7DH_20: 1837566897
+      AlP7DH_200: 1000315036
+      AlP7DH_201: 1794471343
+      AlP7DH_202: 307849504
+      AlP7DH_203: 618980446
+      AlP7DH_204: 711780617
+      AlP7DH_205: 1354653372
+      AlP7DH_206: 1698067639
+      AlP7DH_207: -1635548241
+      AlP7DH_208: -1547268160
+      AlP7DH_209: -1890138229
+      AlP7DH_21: 2095855308
+      AlP7DH_210: -1176958968
+      AlP7DH_211: -548808085
+      AlP7DH_212: 57683624
+      AlP7DH_213: 1402161236
+      AlP7DH_214: 1382180688
+      AlP7DH_215: -279651524
+      AlP7DH_216: 244097659
+      AlP7DH_217: -29246968
+      AlP7DH_218: 15693433
+      AlP7DH_219: -671285430
+      AlP7DH_22: -106125056
+      AlP7DH_220: -817775958
+      AlP7DH_221: 1213432607
+      AlP7DH_222: 1913570909
+      AlP7DH_223: -1949635630
+      AlP7DH_224: 356611279
+      AlP7DH_225: -1683380317
+      AlP7DH_226: -1754445909
+      AlP7DH_227: 1699922667
+      AlP7DH_228: -867937317
+      AlP7DH_229: 1246044015
+      AlP7DH_23: 1834204014
+      AlP7DH_230: -1555798068
+      AlP7DH_231: 2144866863
+      AlP7DH_232: -1958371348
+      AlP7DH_233: -626785820
+      AlP7DH_234: 1070833315
+      AlP7DH_235: -850394764
+      AlP7DH_236: 1907190776
+      AlP7DH_237: 1951961272
+      AlP7DH_238: -1962856507
+      AlP7DH_239: 749773189
+      AlP7DH_24: 216358788
+      AlP7DH_240: 1177547074
+      AlP7DH_241: -1657309234
+      AlP7DH_242: 1779456237
+      AlP7DH_243: -1208585701
+      AlP7DH_244: -2065960239
+      AlP7DH_245: 1486027804
+      AlP7DH_246: -1207459291
+      AlP7DH_247: 406407771
+      AlP7DH_248: 313219622
+      AlP7DH_249: 864129098
+      AlP7DH_25: -1127166690
+      AlP7DH_250: 554806878
+      AlP7DH_251: -1683852793
+      AlP7DH_252: 1670577998
+      AlP7DH_253: 1556205932
+      AlP7DH_254: -930879612
+      AlP7DH_255: 1475179354
+      AlP7DH_256: -869727563
+      AlP7DH_257: 9139933
+      AlP7DH_258: -174917528
+      AlP7DH_259: 2137490983
+      AlP7DH_26: -1555460821
+      AlP7DH_260: 538800589
+      AlP7DH_261: -745325169
+      AlP7DH_262: -1151190737
+      AlP7DH_263: -1109154249
+      AlP7DH_264: 1268286633
+      AlP7DH_265: -1092188669
+      AlP7DH_266: -714971016
+      AlP7DH_267: 67171047
+      AlP7DH_268: -476837372
+      AlP7DH_269: 262832442
+      AlP7DH_27: -1235412382
+      AlP7DH_270: -1466690662
+      AlP7DH_271: -923650770
+      AlP7DH_272: -1929598114
+      AlP7DH_273: 747496941
+      AlP7DH_274: 1988213322
+      AlP7DH_275: -1232564209
+      AlP7DH_276: 51281266
+      AlP7DH_277: -937924575
+      AlP7DH_278: -1390464321
+      AlP7DH_279: 1980679013
+      AlP7DH_28: 1097270960
+      AlP7DH_280: -627954632
+      AlP7DH_281: 1824839774
+      AlP7DH_282: -1444072358
+      AlP7DH_283: -1595539784
+      AlP7DH_284: -4525615
+      AlP7DH_285: 526042107
+      AlP7DH_286: -1701724260
+      AlP7DH_287: 1578736037
+      AlP7DH_288: -975527933
+      AlP7DH_289: -1715926713
+      AlP7DH_29: -734040034
+      AlP7DH_290: -692267703
+      AlP7DH_291: -428612793
+      AlP7DH_292: -1911601007
+      AlP7DH_293: 2147140750
+      AlP7DH_294: -2039725738
+      AlP7DH_295: -930038771
+      AlP7DH_296: 1348136735
+      AlP7DH_297: 1357136939
+      AlP7DH_298: -1151440521
+      AlP7DH_299: 1028555062
+      AlP7DH_3: -757118460
+      AlP7DH_30: 2133672146
+      AlP7DH_300: -265170858
+      AlP7DH_301: -1314588384
+      AlP7DH_302: 1941487712
+      AlP7DH_303: 1903705190
+      AlP7DH_304: 2044131079
+      AlP7DH_305: 1227966996
+      AlP7DH_306: 1730956130
+      AlP7DH_307: -1268018596
+      AlP7DH_308: 529347451
+      AlP7DH_309: 2063130983
+      AlP7DH_31: -1876259756
+      AlP7DH_310: 1562229702
+      AlP7DH_311: 1020351283
+      AlP7DH_312: -1591407847
+      AlP7DH_313: -820408109
+      AlP7DH_314: 1620327397
+      AlP7DH_315: -889511178
+      AlP7DH_316: 489652393
+      AlP7DH_317: 1750099349
+      AlP7DH_318: -1570681542
+      AlP7DH_319: -162380240
+      AlP7DH_32: 1736823957
+      AlP7DH_320: -558848491
+      AlP7DH_321: -630972570
+      AlP7DH_322: -1402981347
+      AlP7DH_323: -1027045247
+      AlP7DH_324: -1021094596
+      AlP7DH_325: 1954141265
+      AlP7DH_326: -1531517081
+      AlP7DH_327: 1303005413
+      AlP7DH_328: 2008429142
+      AlP7DH_329: 1972997651
+      AlP7DH_33: 341935030
+      AlP7DH_330: -1553667946
+      AlP7DH_331: 1873026744
+      AlP7DH_332: 223485900
+      AlP7DH_333: -2116987384
+      AlP7DH_334: 2132813951
+      AlP7DH_335: -79159074
+      AlP7DH_34: -1890758049
+      AlP7DH_35: 303815476
+      AlP7DH_36: -1439972313
+      AlP7DH_37: 352523506
+      AlP7DH_38: -915553199
+      AlP7DH_39: 1788135676
+      AlP7DH_4: 2062310457
+      AlP7DH_40: 1379818740
+      AlP7DH_41: -863295439
+      AlP7DH_42: 2088919286
+      AlP7DH_43: 958147729
+      AlP7DH_44: 1127719804
+      AlP7DH_45: -1431492137
+      AlP7DH_46: 672914657
+      AlP7DH_47: -1412557534
+      AlP7DH_48: 338921210
+      AlP7DH_49: 1528651143
+      AlP7DH_5: -656509719
+      AlP7DH_50: -895778074
+      AlP7DH_51: 965259344
+      AlP7DH_52: 1229471879
+      AlP7DH_53: -1903760487
+      AlP7DH_54: 610342886
+      AlP7DH_55: -148372510
+      AlP7DH_56: -471780789
+      AlP7DH_57: -1517827261
+      AlP7DH_58: 648840061
+      AlP7DH_59: -1277470961
+      AlP7DH_6: 771419187
+      AlP7DH_60: 658129974
+      AlP7DH_61: 1085841665
+      AlP7DH_62: -979778793
+      AlP7DH_63: -412171285
+      AlP7DH_64: 1557668764
+      AlP7DH_65: -706420756
+      AlP7DH_66: 520101010
+      AlP7DH_67: -1405153444
+      AlP7DH_68: -1408123025
+      AlP7DH_69: -1106427459
+      AlP7DH_7: 404336773
+      AlP7DH_70: 1148465945
+      AlP7DH_71: 1100867467
+      AlP7DH_72: 627001311
+      AlP7DH_73: 1034147228
+      AlP7DH_74: 10271504
+      AlP7DH_75: 1708138962
+      AlP7DH_76: -203648708
+      AlP7DH_77: 1465960911
+      AlP7DH_78: 1051208636
+      AlP7DH_79: 117635660
+      AlP7DH_8: -422418735
+      AlP7DH_80: -390803590
+      AlP7DH_81: 875599097
+      AlP7DH_82: 1440557597
+      AlP7DH_83: 1910290295
+      AlP7DH_84: 556632202
+      AlP7DH_85: -322270153
+      AlP7DH_86: -693980018
+      AlP7DH_87: 1243500139
+      AlP7DH_88: -569041505
+      AlP7DH_89: -1977219633
+      AlP7DH_9: -618066374
+      AlP7DH_90: -342966120
+      AlP7DH_91: 1795971698
+      AlP7DH_92: 2096496602
+      AlP7DH_93: 56239109
+      AlP7DH_94: -395063591
+      AlP7DH_95: -166430638
+      AlP7DH_96: -1115303814
+      AlP7DH_97: 1244849
+      AlP7DH_98: 2107059182
+      AlP7DH_99: -2072290790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
