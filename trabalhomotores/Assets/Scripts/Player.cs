@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-  public float velocidade = 10f;
-  public float focaPulo = 10f;
+  public float velocidade = 5f;
+  public float focaPulo = 7f;
 
     public bool noChao = false;
   
@@ -68,4 +68,4 @@ public class Player : MonoBehaviour
 
 
     }
-}
+} 
